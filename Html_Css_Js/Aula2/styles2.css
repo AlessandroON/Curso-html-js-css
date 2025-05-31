@@ -1,0 +1,25 @@
+
+.pai{
+
+    background-color: #ffffff;
+    width: 1440px;
+    height: 430;
+    display: flex;
+    flex-direction: row;
+}
+.filho-one{
+    display:flex;
+    flex-direction: column;
+    margin-left: 35px;
+}
+.titulo{
+    color:#FF8A00;
+    font-family: 'Major Mono Display';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+
+    
+}
